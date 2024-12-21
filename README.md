@@ -14,7 +14,7 @@ Se você está procurando algo super elaborado e dinâmico... bom, talvez não s
 
 ## Link do Site
 
-🌍 **[Acesse meu portfólio aqui!](https://cv-liryel.netlify.app/)** 🌍
+🌍 **[Acesse meu curriculo online aqui!](https://cv-liryel.netlify.app/)** 🌍
 
 ## Tecnologias usadas
 
